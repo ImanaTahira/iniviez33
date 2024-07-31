@@ -1,0 +1,22 @@
+{
+  "name": "tiktokview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maypac.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "boxen": "^8.0.0",
+    "chalk": "^4.1.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^22.14.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
